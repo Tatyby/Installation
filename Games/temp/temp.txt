@@ -1,0 +1,22 @@
+Папка temp была создана. Полный путь: C:\Users\in_sd\IdeaProjects\Installation\Games\temp
+
+Папка src была создана. Полный путь: C:\Users\in_sd\IdeaProjects\Installation\Games\src
+
+Папка res была создана. Полный путь: C:\Users\in_sd\IdeaProjects\Installation\Games\res
+
+Папка savegames была создана. Полный путь: C:\Users\in_sd\IdeaProjects\Installation\Games\savegames
+
+Папка main была создана. Полный путь: C:\Users\in_sd\IdeaProjects\Installation\Games\src\main
+
+Папка test была создана. Полный путь: C:\Users\in_sd\IdeaProjects\Installation\Games\src\test
+
+Файл Main.java был создан. Полный путь: C:\Users\in_sd\IdeaProjects\Installation\Games\src\main//Main.java
+
+Файл Utils.java был создан. Полный путь: C:\Users\in_sd\IdeaProjects\Installation\Games\src\main//Utils.java
+
+Папка drawables была создана. Полный путь: C:\Users\in_sd\IdeaProjects\Installation\Games\res\drawables
+
+Папка vectors была создана. Полный путь: C:\Users\in_sd\IdeaProjects\Installation\Games\res\vectors
+
+Папка icons была создана. Полный путь: C:\Users\in_sd\IdeaProjects\Installation\Games\res\icons
+
